@@ -1,5 +1,5 @@
-Word ladder/doublets
-====================
+Word ladder
+===========
 
 Yet another [word ladder][wiki1] solver. But here with the graph database [Neo4j][neo1] in a [docker][d1] container.
 
