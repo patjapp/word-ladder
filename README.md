@@ -1,3 +1,4 @@
+
 Word ladder
 ===========
 
@@ -6,5 +7,5 @@ Yet another [word ladder][wiki1] solver. But here with the graph database [Neo4j
 IN PROGRESS
 
 [wiki1]: https://en.wikipedia.org/wiki/Word_ladder
-[neo1]: https://neo4j.com
-[d1]: https://www.docker.com/
+[neo1]:  https://neo4j.com
+[d1]:    https://www.docker.com/
